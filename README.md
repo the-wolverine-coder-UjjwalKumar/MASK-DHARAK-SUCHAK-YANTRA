@@ -9,12 +9,12 @@
 
 
 ## Person without mask
-![output1](images/1.png)
+![output1](MASK-DHARAK-SUCHAK-YANTRA/MASK-DHARAK-SUCHAK-YANTRA/images/1.png)
 
-![output2](images/2.png)
+![output2](MASK-DHARAK-SUCHAK-YANTRA/MASK-DHARAK-SUCHAK-YANTRA/images/2.png)
 
 
 ## Person with mask
-![output3](images/3.png)
+![output3](MASK-DHARAK-SUCHAK-YANTRA/MASK-DHARAK-SUCHAK-YANTRA/images/3.png)
 
-![output4](images/4.png)
+![output4](MASK-DHARAK-SUCHAK-YANTRA/MASK-DHARAK-SUCHAK-YANTRA/images/4.png)
